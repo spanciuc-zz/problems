@@ -53,6 +53,7 @@
     <modules>
         <module>array-swap</module>
         <module>array-reverse</module>
+        <module>prime</module>
     </modules>
 
     <build>
