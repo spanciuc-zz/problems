@@ -54,6 +54,7 @@
         <module>array-swap</module>
         <module>array-reverse</module>
         <module>prime</module>
+        <module>fibonacci</module>
     </modules>
 
     <build>
