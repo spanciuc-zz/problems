@@ -18,6 +18,7 @@
             ${char.encoding}
         </project.build.sourceEncoding>
         <junit-jupiter.version>5.8.2</junit-jupiter.version>
+        <mockito-core.version>4.3.1</mockito-core.version>
         <maven-surefire-plugin.version>3.0.0-M5</maven-surefire-plugin.version>
         <maven-compiler-plugin.version>3.10.1</maven-compiler-plugin.version>
     </properties>
@@ -39,6 +40,12 @@
                 <version>${junit-jupiter.version}</version>
                 <scope>test</scope>
             </dependency>
+            <dependency>
+                <groupId>org.mockito</groupId>
+                <artifactId>mockito-core</artifactId>
+                <version>${mockito-core.version}</version>
+                <scope>test</scope>
+            </dependency>
         </dependencies>
     </dependencyManagement>
 
@@ -55,6 +62,7 @@
         <module>array-reverse</module>
         <module>prime</module>
         <module>fibonacci</module>
+        <module>factorial</module>
     </modules>
 
     <build>
