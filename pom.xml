@@ -51,7 +51,7 @@
     </dependencies>
 
     <modules>
-
+        <module>array-swap</module>
     </modules>
 
     <build>
