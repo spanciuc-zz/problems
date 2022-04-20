@@ -52,6 +52,7 @@
 
     <modules>
         <module>array-swap</module>
+        <module>array-reverse</module>
     </modules>
 
     <build>
