@@ -18,6 +18,10 @@ public class ArraySwap {
    *     the first index to swap must be in bounds of the array.
    * @param indexTo
    *     the second index to swap must be in bounds of the array.
+   * @throws NullPointerException
+   *     if the array is null.
+   * @throws IndexOutOfBoundsException
+   *     if the indexes are invalid.
    */
   public static void swap(Object[] array, int indexFrom, int indexTo) {
 
