@@ -63,6 +63,7 @@
         <module>prime</module>
         <module>fibonacci</module>
         <module>factorial</module>
+        <module>permutations</module>
     </modules>
 
     <build>
