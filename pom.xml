@@ -65,6 +65,7 @@
         <module>factorial</module>
         <module>permutations</module>
         <module>combinations</module>
+        <module>powers-of</module>
     </modules>
 
     <build>
