@@ -66,6 +66,7 @@
         <module>permutations</module>
         <module>combinations</module>
         <module>powers-of</module>
+        <module>pascals-triangle</module>
     </modules>
 
     <build>
