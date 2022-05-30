@@ -69,6 +69,7 @@
         <module>powers-of</module>
         <module>pascals-triangle</module>
         <module>bitwise</module>
+        <module>brackets-matcher</module>
     </modules>
 
     <build>
