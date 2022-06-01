@@ -70,6 +70,7 @@
         <module>pascals-triangle</module>
         <module>bitwise</module>
         <module>brackets-matcher</module>
+        <module>strings</module>
     </modules>
 
     <build>
