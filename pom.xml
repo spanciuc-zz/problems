@@ -71,6 +71,7 @@
         <module>bitwise</module>
         <module>brackets-matcher</module>
         <module>strings</module>
+        <module>arrays</module>
     </modules>
 
     <build>
