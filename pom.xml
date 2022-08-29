@@ -72,6 +72,7 @@
         <module>brackets-matcher</module>
         <module>strings</module>
         <module>arrays</module>
+        <module>lists</module>
     </modules>
 
     <build>
